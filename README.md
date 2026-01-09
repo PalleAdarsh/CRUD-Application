@@ -25,7 +25,7 @@ Open a terminal in the project folder and run:
 
 mvn spring-boot:run
 4. Open in Browser
-Once you see "Started CrudApplication", go to: [http://localhost:9090]
+Once you see "Started CrudApplication", go to: http://localhost:9090
 
 Features
 Add User: Click "Add New User".
